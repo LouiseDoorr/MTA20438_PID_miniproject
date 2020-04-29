@@ -20,7 +20,7 @@ Additionally, you can check out some video content:
 - [Link to the raw video of the demonstration of the prototype](https://www.youtube.com/watch?v=KwtzAa93t0E)
 
 
-[Link to the github](https://github.com/LouiseDoorr/PIDminiproject)
+[Link to the github](https://github.com/LouiseDoorr/MTA20438_PID_miniproject)
 
 The Arduino program
 ---------------
