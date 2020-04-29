@@ -10,8 +10,8 @@ This Physical Interface Design Mini-project was a collaboration by MTA-20438 wit
 
 
 All relevant material that is not the code is located in the projectMaterial folder. The items are as follows: 
-- circuit diagrams 
-- mapping tables
+- Circuit diagrams 
+- Mapping tables
 - Slide
 - State diagram
 - Video + demo
