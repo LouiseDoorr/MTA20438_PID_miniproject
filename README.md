@@ -19,6 +19,8 @@ Additionally, you can check out some video content:
 - [Link to the video presentation](https://youtu.be/XCKGmWt0xH0)
 - [Link to the raw video of the demonstration of the prototype](https://www.youtube.com/watch?v=KwtzAa93t0E)
 
+
+[Link to the github](https://github.com/LouiseDoorr/PIDminiproject)
 The Arduino program
 ---------------
 The code is designed as a Simon says game where the user is required to react to four coloured LEDs, which lights up one at a time. To react to these, they have a joystick with four LEDs around it corresponding to the signifier LEDs. Additionally, a counter is there to display the amount of correct movements the user has performed. When they move the joystick towards a correctly coloured LED, the counter increments and a new signifier LED lights up. If they move the joystick incorrectly, nothing happens and the same signier LED keeps being lit until the user makes the correct movement.
