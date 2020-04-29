@@ -14,7 +14,10 @@ All relevant material that is not the code is located in the projectMaterial fol
 - Mapping tables
 - Slide
 - State diagram
-- Video + demo
+
+Additionally, you can check out some video content:
+- [Link to the video presentation](https://youtu.be/XCKGmWt0xH0)
+- [Link to the raw video of the demonstration of the prototype](https://www.youtube.com/watch?v=KwtzAa93t0E)
 
 The Arduino program
 ---------------
