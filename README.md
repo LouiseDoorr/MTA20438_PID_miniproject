@@ -1,4 +1,5 @@
 # PIDminiproject
+===============
 This Physical Interface Design Mini-project was a collaboration by MTA-20438 with the following members: 
 - Hamzah Ziadeh			            – Studienr.: 20183743
 - Louise Dørr Nielsen 			    – Studienr.: 20183839
@@ -6,3 +7,13 @@ This Physical Interface Design Mini-project was a collaboration by MTA-20438 wit
 - Thomas Kim Kroman Kjeldsen    – Studienr.: 20183944
 - David Gulyas 				          – Studienr.: 20184012
 - Steffen Lehmann			          – Studienr.: 20153945
+
+All relevant material that is not the code is located in the projectMaterial folder. The items are as follows: 
+- circuit diagrams 
+- mapping tables
+- Slide
+- State diagram
+- Video + demo
+
+The Arduino program
+---------------
