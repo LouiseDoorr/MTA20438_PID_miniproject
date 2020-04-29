@@ -1,5 +1,5 @@
 # PIDminiproject
-===============
+
 This Physical Interface Design Mini-project was a collaboration by MTA-20438 with the following members: 
 - Hamzah Ziadeh			            – Studienr.: 20183743
 - Louise Dørr Nielsen 			    – Studienr.: 20183839
